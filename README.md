@@ -1,5 +1,6 @@
 # Loops-and-Statements
-#THEORY
+# THEORY
+
 Sometimes in programming, it is necessary to repeat an operation (let's say n times) or more than once.
 When we need to repeatedly run a set of statements, we utilise loops.
 Loop Types:
